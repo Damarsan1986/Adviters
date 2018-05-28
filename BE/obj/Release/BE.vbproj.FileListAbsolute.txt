@@ -1,0 +1,16 @@
+E:\ULTIMO\Fuente\Adviters\BE\bin\Release\BE.dll
+E:\ULTIMO\Fuente\Adviters\BE\bin\Release\BE.pdb
+E:\ULTIMO\Fuente\Adviters\BE\bin\Release\BE.xml
+E:\ULTIMO\Fuente\Adviters\BE\obj\Release\BE.Resources.resources
+E:\ULTIMO\Fuente\Adviters\BE\obj\Release\BE.vbproj.GenerateResource.Cache
+E:\ULTIMO\Fuente\Adviters\BE\obj\Release\BE.dll
+E:\ULTIMO\Fuente\Adviters\BE\obj\Release\BE.xml
+E:\ULTIMO\Fuente\Adviters\BE\obj\Release\BE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Release\BE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Release\BE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Release\BE.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Release\BE.Resources.resources
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Release\BE.vbproj.GenerateResource.Cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Release\BE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Release\BE.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Release\BE.pdb

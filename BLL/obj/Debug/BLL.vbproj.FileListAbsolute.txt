@@ -1,0 +1,212 @@
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\BLL.dll
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\BLL.pdb
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\BLL.xml
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\BE.dll
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\DAL.dll
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\BE.pdb
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\BE.xml
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\DAL.pdb
+d:\documents\visual studio 2012\Projects\GUI\BLL\bin\Debug\DAL.xml
+d:\documents\visual studio 2012\Projects\GUI\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\GUI\BLL\obj\Debug\BLL.Resources.resources
+d:\documents\visual studio 2012\Projects\GUI\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\GUI\BLL\obj\Debug\BLL.dll
+d:\documents\visual studio 2012\Projects\GUI\BLL\obj\Debug\BLL.xml
+d:\documents\visual studio 2012\Projects\GUI\BLL\obj\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BLL\obj\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BLL\obj\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\BLL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\DAL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\DAL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\bin\Debug\DAL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.dll
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\BLL.dll
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\BLL.xml
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\BE.xml
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\SisAward\BLL\bin\Debug\DAL.xml
+C:\Users\Navegador\Desktop\SisAward\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\SisAward\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Navegador\Desktop\SisAward\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Navegador\Desktop\SisAward\BLL\obj\Debug\BLL.dll
+C:\Users\Navegador\Desktop\SisAward\BLL\obj\Debug\BLL.xml
+C:\Users\Navegador\Desktop\SisAward\BLL\obj\Debug\BLL.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\BLL.dll
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\BLL.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\BLL.xml
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\BE.dll
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\DAL.dll
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\BE.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\BE.xml
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\DAL.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\bin\Debug\DAL.xml
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\obj\Debug\BLL.Resources.resources
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\obj\Debug\BLL.dll
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\obj\Debug\BLL.xml
+E:\UAI\TC1\...en curso...TC1\SisAward - copia\BLL\obj\Debug\BLL.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\BLL.dll
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\BLL.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\BLL.xml
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\BE.dll
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\DAL.dll
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\BE.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\BE.xml
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\DAL.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\bin\Debug\DAL.xml
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.Resources.resources
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.dll
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.xml
+E:\UAI\TC1\...en curso...TC1\SisAward\BLL\obj\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\BLL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\DAL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\DAL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\bin\Debug\DAL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\obj\Debug\BLL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\obj\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BLL\obj\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\BLL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\DAL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\DAL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\bin\Debug\DAL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\obj\Debug\BLL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\obj\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BLL\obj\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\DAL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\BLL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\DAL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\bin\Debug\DAL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\obj\Debug\BLL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\obj\Debug\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BLL\obj\Debug\BLL.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BLL.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BLL.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BLL.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BE.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\DAL.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BE.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BE.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\DAL.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\DAL.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.Resources.resources
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.pdb
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\BLL.dll
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\BLL.pdb
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\BLL.xml
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\BE.dll
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\DAL.dll
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\Seguridad.dll
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\BE.pdb
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\BE.xml
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\DAL.pdb
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\DAL.xml
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\Seguridad.pdb
+E:\ULTIMO\Fuente\Adviters\BLL\bin\Debug\Seguridad.xml
+E:\ULTIMO\Fuente\Adviters\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\ULTIMO\Fuente\Adviters\BLL\obj\Debug\BLL.Resources.resources
+E:\ULTIMO\Fuente\Adviters\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\ULTIMO\Fuente\Adviters\BLL\obj\Debug\BLL.dll
+E:\ULTIMO\Fuente\Adviters\BLL\obj\Debug\BLL.xml
+E:\ULTIMO\Fuente\Adviters\BLL\obj\Debug\BLL.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BLL.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BLL.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BLL.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\DAL.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\Seguridad.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\BE.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\DAL.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\DAL.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\Seguridad.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\bin\Debug\Seguridad.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.Resources.resources
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BLL\obj\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\BLL.dll
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\BLL.xml
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\Seguridad.dll
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\BE.xml
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\DAL.xml
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\Seguridad.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\bin\Debug\Seguridad.xml
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\obj\Debug\BLL.dll
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\obj\Debug\BLL.xml
+C:\Users\Navegador\Desktop\2018\Adviters\BLL\obj\Debug\BLL.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\BLL.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\BLL.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\BLL.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\BE.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\DAL.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\Seguridad.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\BE.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\BE.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\DAL.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\DAL.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\Seguridad.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\bin\Debug\Seguridad.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\obj\Debug\BLL.Resources.resources
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\obj\Debug\BLL.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\obj\Debug\BLL.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\BLL\obj\Debug\BLL.pdb

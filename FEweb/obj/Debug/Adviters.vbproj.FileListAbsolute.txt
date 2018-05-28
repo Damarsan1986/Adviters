@@ -1,0 +1,9 @@
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\bin\Adviters.dll.config
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\bin\Adviters.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\bin\Adviters.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\bin\Adviters.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\obj\Debug\Adviters.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\obj\Debug\Adviters.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\obj\Debug\Adviters.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\obj\Debug\Adviters.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Adviters\obj\Debug\Adviters.pdb

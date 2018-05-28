@@ -1,0 +1,92 @@
+d:\documents\visual studio 2012\Projects\GUI\BE\bin\Debug\BE.dll
+d:\documents\visual studio 2012\Projects\GUI\BE\bin\Debug\BE.pdb
+d:\documents\visual studio 2012\Projects\GUI\BE\bin\Debug\BE.xml
+d:\documents\visual studio 2012\Projects\GUI\BE\obj\Debug\BE.Resources.resources
+d:\documents\visual studio 2012\Projects\GUI\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\GUI\BE\obj\Debug\BE.dll
+d:\documents\visual studio 2012\Projects\GUI\BE\obj\Debug\BE.xml
+d:\documents\visual studio 2012\Projects\GUI\BE\obj\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BE\obj\Debug\BE.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BE\obj\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\-recu-Lenguajes de ultima generación\material\Emanuel\4 CAPAS\4 CAPAS\BE\obj\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BE\bin\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BE\bin\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BE\bin\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BE\obj\Debug\BE.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BE\obj\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BE\obj\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\...en curso...TC1\SisAward\BE\obj\Debug\BE.pdb
+C:\Users\Navegador\Desktop\SisAward\BE\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\SisAward\BE\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\SisAward\BE\bin\Debug\BE.xml
+C:\Users\Navegador\Desktop\SisAward\BE\obj\Debug\BE.Resources.resources
+C:\Users\Navegador\Desktop\SisAward\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\Navegador\Desktop\SisAward\BE\obj\Debug\BE.dll
+C:\Users\Navegador\Desktop\SisAward\BE\obj\Debug\BE.xml
+C:\Users\Navegador\Desktop\SisAward\BE\obj\Debug\BE.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward\BE\bin\Debug\BE.dll
+E:\UAI\TC1\...en curso...TC1\SisAward\BE\bin\Debug\BE.pdb
+E:\UAI\TC1\...en curso...TC1\SisAward\BE\bin\Debug\BE.xml
+E:\UAI\TC1\...en curso...TC1\SisAward\BE\obj\Debug\BE.Resources.resources
+E:\UAI\TC1\...en curso...TC1\SisAward\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+E:\UAI\TC1\...en curso...TC1\SisAward\BE\obj\Debug\BE.dll
+E:\UAI\TC1\...en curso...TC1\SisAward\BE\obj\Debug\BE.xml
+E:\UAI\TC1\...en curso...TC1\SisAward\BE\obj\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BE\bin\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BE\bin\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BE\bin\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BE\obj\Debug\BE.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BE\obj\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BE\obj\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-..TD1\SisAward\BE\obj\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BE\bin\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BE\bin\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BE\bin\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BE\obj\Debug\BE.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BE\obj\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BE\obj\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-recu-..TD1\SisAward\BE\obj\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BE\bin\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BE\bin\Debug\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BE\bin\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BE\obj\Debug\BE.Resources.resources
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BE\obj\Debug\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BE\obj\Debug\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..final..TD1\SisAward\BE\obj\Debug\BE.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Debug\BE.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Debug\BE.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Debug\BE.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.Resources.resources
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.pdb
+E:\ULTIMO\Fuente\Adviters\BE\bin\Debug\BE.dll
+E:\ULTIMO\Fuente\Adviters\BE\bin\Debug\BE.pdb
+E:\ULTIMO\Fuente\Adviters\BE\bin\Debug\BE.xml
+E:\ULTIMO\Fuente\Adviters\BE\obj\Debug\BE.Resources.resources
+E:\ULTIMO\Fuente\Adviters\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+E:\ULTIMO\Fuente\Adviters\BE\obj\Debug\BE.dll
+E:\ULTIMO\Fuente\Adviters\BE\obj\Debug\BE.xml
+E:\ULTIMO\Fuente\Adviters\BE\obj\Debug\BE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Debug\BE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Debug\BE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\bin\Debug\BE.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.Resources.resources
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\BE\obj\Debug\BE.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\BE\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\2018\Adviters\BE\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\BE\bin\Debug\BE.xml
+C:\Users\Navegador\Desktop\2018\Adviters\BE\obj\Debug\BE.Resources.resources
+C:\Users\Navegador\Desktop\2018\Adviters\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\Navegador\Desktop\2018\Adviters\BE\obj\Debug\BE.dll
+C:\Users\Navegador\Desktop\2018\Adviters\BE\obj\Debug\BE.xml
+C:\Users\Navegador\Desktop\2018\Adviters\BE\obj\Debug\BE.pdb

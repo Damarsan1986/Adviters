@@ -1,0 +1,136 @@
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.dll.config
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.pdb
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.xml
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.csprojResolveAssemblyReference.cache
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.dll
+C:\Users\Agus\Desktop\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.dll.config
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.pdb
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.xml
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.csprojResolveAssemblyReference.cache
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.dll
+C:\Dani\Personales\facu\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.pdb
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\FE.dll.config
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\FE.dll
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\FE.pdb
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\BE.dll
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\BLL.dll
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\Seguridad.dll
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\DAL.dll
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\BE.pdb
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\BE.xml
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\BLL.pdb
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\BLL.xml
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\Seguridad.pdb
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\Seguridad.xml
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\DAL.pdb
+E:\ULTIMO\Fuente\Adviters\FEweb\bin\DAL.xml
+E:\ULTIMO\Fuente\Adviters\FEweb\obj\Debug\FE.csprojResolveAssemblyReference.cache
+E:\ULTIMO\Fuente\Adviters\FEweb\obj\Debug\RdlCompile.cache
+E:\ULTIMO\Fuente\Adviters\FEweb\obj\Debug\RdlCompile.compiled
+E:\ULTIMO\Fuente\Adviters\FEweb\obj\Debug\FE.dll
+E:\ULTIMO\Fuente\Adviters\FEweb\obj\Debug\FE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.dll.config
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\FE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BE.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\BLL.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\Seguridad.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\bin\DAL.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.csprojResolveAssemblyReference.cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\RdlCompile.cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\RdlCompile.compiled
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Debug\FE.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\FE.dll.config
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\FE.dll
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\FE.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\BE.dll
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\BLL.dll
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\Seguridad.dll
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\DAL.dll
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\BE.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\BE.xml
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\BLL.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\BLL.xml
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\Seguridad.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\Seguridad.xml
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\DAL.pdb
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\bin\DAL.xml
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\obj\Debug\FE.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\obj\Debug\RdlCompile.cache
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\obj\Debug\RdlCompile.compiled
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\obj\Debug\FE.dll
+C:\Users\Navegador\Desktop\2018\Adviters\FEweb\obj\Debug\FE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\FE.dll.config
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\FE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\FE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\BE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\BLL.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\Seguridad.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\DAL.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\BE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\BE.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\BLL.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\BLL.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\Seguridad.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\Seguridad.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\DAL.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\bin\DAL.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\obj\Debug\FE.csprojResolveAssemblyReference.cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\obj\Debug\RdlCompile.cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\obj\Debug\RdlCompile.compiled
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\obj\Debug\FE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters - Entrega Final Aprobada\Fuente\FEweb\obj\Debug\FE.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\FE.dll.config
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\FE.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\FE.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\BE.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\BLL.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\Seguridad.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\DAL.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\BE.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\BE.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\BLL.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\BLL.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\Seguridad.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\Seguridad.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\DAL.pdb
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\bin\DAL.xml
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\obj\Debug\FE.csprojResolveAssemblyReference.cache
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\obj\Debug\RdlCompile.cache
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\obj\Debug\RdlCompile.compiled
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\obj\Debug\FE.dll
+C:\Dani\Dani\Páginas\Adviters.com Sistema\Fuente\FEweb\obj\Debug\FE.pdb

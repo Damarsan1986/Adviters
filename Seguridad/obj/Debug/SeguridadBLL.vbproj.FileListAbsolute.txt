@@ -1,0 +1,12 @@
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\bin\Debug\SeguridadBLL.dll
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\bin\Debug\SeguridadBLL.pdb
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\bin\Debug\SeguridadBLL.xml
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\bin\Debug\AccesoDatos.Proveedores.dll
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\bin\Debug\AccesoDatos.Proveedores.pdb
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\bin\Debug\AccesoDatos.Proveedores.xml
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\obj\Debug\SeguridadBLL.vbprojResolveAssemblyReference.cache
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\obj\Debug\SeguridadBLL.Resources.resources
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\obj\Debug\SeguridadBLL.vbproj.GenerateResource.Cache
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\obj\Debug\SeguridadBLL.dll
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\obj\Debug\SeguridadBLL.xml
+D:\TD\Barnech\WinSeguridadAvanzado\SeguridadBLL\obj\Debug\SeguridadBLL.pdb

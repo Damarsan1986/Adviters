@@ -1,0 +1,30 @@
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\Seguridad.dll
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\Seguridad.pdb
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\Seguridad.xml
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\BE.dll
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\DAL.dll
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\BE.pdb
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\BE.xml
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\DAL.pdb
+E:\ULTIMO\Fuente\Adviters\Seguridad\bin\Release\DAL.xml
+E:\ULTIMO\Fuente\Adviters\Seguridad\obj\Release\Seguridad.vbprojResolveAssemblyReference.cache
+E:\ULTIMO\Fuente\Adviters\Seguridad\obj\Release\Seguridad.Resources.resources
+E:\ULTIMO\Fuente\Adviters\Seguridad\obj\Release\Seguridad.vbproj.GenerateResource.Cache
+E:\ULTIMO\Fuente\Adviters\Seguridad\obj\Release\Seguridad.dll
+E:\ULTIMO\Fuente\Adviters\Seguridad\obj\Release\Seguridad.xml
+E:\ULTIMO\Fuente\Adviters\Seguridad\obj\Release\Seguridad.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\Seguridad.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\Seguridad.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\Seguridad.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\BE.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\DAL.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\BE.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\BE.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\DAL.pdb
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\bin\Release\DAL.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\obj\Release\Seguridad.vbprojResolveAssemblyReference.cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\obj\Release\Seguridad.Resources.resources
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\obj\Release\Seguridad.vbproj.GenerateResource.Cache
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\obj\Release\Seguridad.dll
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\obj\Release\Seguridad.xml
+C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\Seguridad\obj\Release\Seguridad.pdb

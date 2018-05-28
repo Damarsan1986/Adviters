@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="WSConversorFecha" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="WSConversorFecha" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="WSConversorFecha">
+      <s:element name="ConvertirFecha">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fecha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertirFechaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConvertirFechaResult" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ConvertirFechaSoapIn">
+    <wsdl:part name="parameters" element="tns:ConvertirFecha" />
+  </wsdl:message>
+  <wsdl:message name="ConvertirFechaSoapOut">
+    <wsdl:part name="parameters" element="tns:ConvertirFechaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSConversorFechaSoap">
+    <wsdl:operation name="ConvertirFecha">
+      <wsdl:input message="tns:ConvertirFechaSoapIn" />
+      <wsdl:output message="tns:ConvertirFechaSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSConversorFechaSoap" type="tns:WSConversorFechaSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConvertirFecha">
+      <soap:operation soapAction="WSConversorFecha/ConvertirFecha" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSConversorFechaSoap12" type="tns:WSConversorFechaSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConvertirFecha">
+      <soap12:operation soapAction="WSConversorFecha/ConvertirFecha" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSConversorFecha">
+    <wsdl:port name="WSConversorFechaSoap" binding="tns:WSConversorFechaSoap">
+      <soap:address location="http://192.168.2.112:8091/WSConversorFecha.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSConversorFechaSoap12" binding="tns:WSConversorFechaSoap12">
+      <soap12:address location="http://192.168.2.112:8091/WSConversorFecha.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

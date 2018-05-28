@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="InfoDivisas" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="InfoDivisas" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="InfoDivisas">
+      <s:element name="RecuperarCotizacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="moneda" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RecuperarCotizacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RecuperarCotizacionResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="RecuperarCotizacionSoapIn">
+    <wsdl:part name="parameters" element="tns:RecuperarCotizacion" />
+  </wsdl:message>
+  <wsdl:message name="RecuperarCotizacionSoapOut">
+    <wsdl:part name="parameters" element="tns:RecuperarCotizacionResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSDivisasSoap">
+    <wsdl:operation name="RecuperarCotizacion">
+      <wsdl:input message="tns:RecuperarCotizacionSoapIn" />
+      <wsdl:output message="tns:RecuperarCotizacionSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSDivisasSoap" type="tns:WSDivisasSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RecuperarCotizacion">
+      <soap:operation soapAction="InfoDivisas/RecuperarCotizacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSDivisasSoap12" type="tns:WSDivisasSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RecuperarCotizacion">
+      <soap12:operation soapAction="InfoDivisas/RecuperarCotizacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSDivisas">
+    <wsdl:port name="WSDivisasSoap" binding="tns:WSDivisasSoap">
+      <soap:address location="http://192.168.0.12:8091/WSDivisas.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSDivisasSoap12" binding="tns:WSDivisasSoap12">
+      <soap12:address location="http://192.168.0.12:8091/WSDivisas.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

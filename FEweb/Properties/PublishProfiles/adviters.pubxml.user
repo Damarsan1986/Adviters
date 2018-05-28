@@ -1,0 +1,1723 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\sitio</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include=".DS_Store">
+      <publishTime>08/27/2017 17:34:08</publishTime>
+    </File>
+    <File Include="adminbd.aspx">
+      <publishTime>12/10/2017 13:36:51</publishTime>
+    </File>
+    <File Include="adminbd.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="adminbd.aspx.designer.cs">
+      <publishTime>05/11/2017 10:59:48</publishTime>
+    </File>
+    <File Include="areas.html">
+      <publishTime>03/04/2018 20:02:30</publishTime>
+    </File>
+    <File Include="asignaciones.aspx">
+      <publishTime>11/14/2017 08:56:54</publishTime>
+    </File>
+    <File Include="asignaciones.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="asignaciones.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/BE.dll">
+      <publishTime>03/04/2018 20:19:57</publishTime>
+    </File>
+    <File Include="bin/BE.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>03/07/2018 15:37:47</publishTime>
+    </File>
+    <File Include="bin/BLL.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>03/07/2018 15:37:46</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/FE.dll">
+      <publishTime>03/07/2018 15:37:47</publishTime>
+    </File>
+    <File Include="bin/FE.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Seguridad.dll">
+      <publishTime>03/07/2018 15:37:46</publishTime>
+    </File>
+    <File Include="bin/Seguridad.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bitacoras.aspx">
+      <publishTime>12/04/2017 01:12:21</publishTime>
+    </File>
+    <File Include="bitacoras.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bitacoras.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="canjes.aspx">
+      <publishTime>12/17/2017 15:20:01</publishTime>
+    </File>
+    <File Include="canjes.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="canjes.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="changepass.aspx">
+      <publishTime>03/04/2018 20:02:44</publishTime>
+    </File>
+    <File Include="changepass.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="changepass.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="clientes.aspx">
+      <publishTime>03/05/2018 22:12:43</publishTime>
+    </File>
+    <File Include="clientes.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="clientes.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="consumidores.aspx">
+      <publishTime>12/17/2017 15:03:15</publishTime>
+    </File>
+    <File Include="consumidores.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="consumidores.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="contacto.aspx">
+      <publishTime>03/04/2018 19:30:54</publishTime>
+    </File>
+    <File Include="contacto.html">
+      <publishTime>03/04/2018 18:46:59</publishTime>
+    </File>
+    <File Include="container.Master">
+      <publishTime>12/17/2017 13:39:19</publishTime>
+    </File>
+    <File Include="container.Master.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="container.Master.designer.cs">
+      <publishTime>05/11/2017 10:57:38</publishTime>
+    </File>
+    <File Include="css/.DS_Store">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/boostrap.min.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>10/29/2017 12:33:26</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/alerts.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/badges.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/breadcrumbs.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/button-groups.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/buttons.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/carousel.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/close.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/code.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/component-animations.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/dropdowns.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/forms.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/glyphicons.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/grid.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/input-groups.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/jumbotron.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/labels.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/list-group.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/media.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/media.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/alerts.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/alerts.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/background-variant.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/background-variant.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/border-radius.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/border-radius.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/buttons.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/buttons.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/center-block.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/center-block.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/clearfix.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/clearfix.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/forms.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/forms.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/gradients.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/gradients.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/grid-framework.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/grid-framework.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/grid.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/grid.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/hide-text.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/hide-text.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/image.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/image.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/labels.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/labels.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/list-group.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/list-group.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/nav-divider.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/nav-divider.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/nav-vertical-align.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/nav-vertical-align.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/opacity.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/opacity.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/pagination.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/pagination.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/panels.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/panels.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/progress-bar.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/progress-bar.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/reset-filter.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/reset-filter.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/resize.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/resize.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/responsive-visibility.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/responsive-visibility.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/size.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/size.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/tab-focus.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/tab-focus.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/table-row.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/table-row.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/text-emphasis.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/text-emphasis.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/text-overflow.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/text-overflow.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/vendor-prefixes.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/vendor-prefixes.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/mixins/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/modals.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/navbar.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/navs.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/normalize.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/normalize.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/pager.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/pagination.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/panels.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/popovers.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/print.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/print.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/progress-bars.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/responsive-embed.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/responsive-embed.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/responsive-utilities.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/scaffolding.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/tables.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/theme.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/theme.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/thumbnails.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/tooltip.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/type.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/utilities.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/variables.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/variables.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/wells.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/bootstrap/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/easy-responsive-tabs.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/magnific-popup.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/megafish.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/menu_slideside.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/owl.carousel.min.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/owl.theme.default.min.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>12/16/2017 18:10:28</publishTime>
+    </File>
+    <File Include="css/style.css.map">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/superfish.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/themify-icons.css">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="css/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="FE.csproj">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="FE.csproj.user">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="fonts/.DS_Store">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/bootstrap/.DS_Store">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/bootstrap/glyphicons-halflings-regular.eot">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/bootstrap/glyphicons-halflings-regular.svg">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/bootstrap/glyphicons-halflings-regular.ttf">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/bootstrap/glyphicons-halflings-regular.woff">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/bootstrap/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/themify/.DS_Store">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/themify/themify.eot">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/themify/themify.svg">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/themify/themify.ttf">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/themify/themify.woff">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/themify/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="fonts/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="forbidden.aspx">
+      <publishTime>11/13/2017 21:59:10</publishTime>
+    </File>
+    <File Include="forbidden.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="forbidden.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="idiomas.aspx">
+      <publishTime>12/10/2017 18:44:17</publishTime>
+    </File>
+    <File Include="idiomas.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="idiomas.aspx.designer.cs">
+      <publishTime>05/11/2017 11:02:02</publishTime>
+    </File>
+    <File Include="images/.DS_Store">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="images/.keep">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="images/adInversa.png">
+      <publishTime>10/29/2017 15:23:50</publishTime>
+    </File>
+    <File Include="images/adviters.png">
+      <publishTime>10/29/2017 14:55:28</publishTime>
+    </File>
+    <File Include="images/favicon.ico">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="images/hero.jpg">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="images/hero2.jpg">
+      <publishTime>08/27/2017 17:33:54</publishTime>
+    </File>
+    <File Include="images/hero3.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/hero4.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/hero_bg.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/image_1.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/image_2.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/justicia.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/justicia1.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/macbook_1.png">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_1.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_10.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_2.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_3.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_4.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_5.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_6.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_7.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_8.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_9.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_detail_1.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_detail_2.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/project_detail_3.jpg">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="images/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="include/class.phpmailer.php">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="include/class.smtp.php">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="include/fgcontactform.php">
+      <publishTime>03/04/2018 18:53:40</publishTime>
+    </File>
+    <File Include="include/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>03/04/2018 20:03:26</publishTime>
+    </File>
+    <File Include="institucional.html">
+      <publishTime>03/04/2018 20:03:37</publishTime>
+    </File>
+    <File Include="js/.DS_Store">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/custom.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/easyResponsiveTabs.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/fastclick.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/hoverIntent.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/jquery-1.10.2.min.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/jquery.easing.1.3.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/jquery.magnific-popup.min.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/jquery.parallax-scroll.min.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>10/16/2017 21:10:26</publishTime>
+    </File>
+    <File Include="js/modernizr-2.6.2.min.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/owl.carousel.min.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/respond.min.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/superfish.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/supersubs.js">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="js/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:56</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>03/04/2018 20:03:45</publishTime>
+    </File>
+    <File Include="login.aspx.cs">
+      <publishTime>10/12/2017 18:02:05</publishTime>
+    </File>
+    <File Include="login.aspx.designer.cs">
+      <publishTime>09/10/2017 23:33:28</publishTime>
+    </File>
+    <File Include="logoff.aspx">
+      <publishTime>03/04/2018 20:04:07</publishTime>
+    </File>
+    <File Include="logoff.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="logoff.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="main.aspx">
+      <publishTime>11/05/2017 11:04:48</publishTime>
+    </File>
+    <File Include="main.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="main.aspx.designer.cs">
+      <publishTime>05/11/2017 11:02:44</publishTime>
+    </File>
+    <File Include="mensajes.aspx">
+      <publishTime>12/10/2017 18:45:58</publishTime>
+    </File>
+    <File Include="mensajes.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="mensajes.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="newpass.aspx">
+      <publishTime>03/04/2018 20:04:24</publishTime>
+    </File>
+    <File Include="newpass.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="newpass.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/27/2017 17:34:08</publishTime>
+    </File>
+    <File Include="perfil.aspx">
+      <publishTime>03/04/2018 20:04:39</publishTime>
+    </File>
+    <File Include="perfil.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="perfil.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="permisos.aspx">
+      <publishTime>12/17/2017 14:47:45</publishTime>
+    </File>
+    <File Include="permisos.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="permisos.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="productos.aspx">
+      <publishTime>11/06/2017 20:58:36</publishTime>
+    </File>
+    <File Include="productos.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="productos.aspx.designer.cs">
+      <publishTime>06/11/2017 20:44:32</publishTime>
+    </File>
+    <File Include="productos/1.JPG">
+      <publishTime>11/06/2017 17:07:54</publishTime>
+    </File>
+    <File Include="productos/2.png">
+      <publishTime>11/06/2017 14:12:06</publishTime>
+    </File>
+    <File Include="productos/3.jpg">
+      <publishTime>11/06/2017 14:12:20</publishTime>
+    </File>
+    <File Include="productos/adviters.png">
+      <publishTime>11/06/2017 14:12:26</publishTime>
+    </File>
+    <File Include="productos/IMG_0313.JPG">
+      <publishTime>11/06/2017 20:59:48</publishTime>
+    </File>
+    <File Include="productos/slide_a.png">
+      <publishTime>11/06/2017 21:01:40</publishTime>
+    </File>
+    <File Include="Properties/AssemblyInfo.cs">
+      <publishTime>09/09/2017 19:21:08</publishTime>
+    </File>
+    <File Include="Properties/PublishProfiles/adviters.pubxml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="proveedores.aspx">
+      <publishTime>12/17/2017 14:33:05</publishTime>
+    </File>
+    <File Include="proveedores.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="proveedores.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="reportes/reporteMovCus.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="reportes/reporteProductos.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="reportes/reporteProveedores.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="rmovcustomer.aspx">
+      <publishTime>11/14/2017 03:35:40</publishTime>
+    </File>
+    <File Include="rmovcustomer.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="rmovcustomer.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="rproductos.aspx">
+      <publishTime>03/05/2018 00:25:33</publishTime>
+    </File>
+    <File Include="rproductos.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="rproductos.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="rproveedores.aspx">
+      <publishTime>03/05/2018 00:25:24</publishTime>
+    </File>
+    <File Include="rproveedores.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="rproveedores.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="sass/.DS_Store">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/.DS_Store">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/alerts.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/badges.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/breadcrumbs.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/button-groups.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/buttons.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/carousel.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/close.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/code.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/component-animations.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/dropdowns.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/forms.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/glyphicons.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/grid.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/input-groups.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/jumbotron.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/labels.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/list-group.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/media.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/.DS_Store">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/alerts.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/background-variant.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/border-radius.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/buttons.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/center-block.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/clearfix.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/forms.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/gradients.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/grid-framework.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/grid.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/hide-text.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/image.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/labels.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/list-group.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/nav-divider.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/nav-vertical-align.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/opacity.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/pagination.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/panels.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/progress-bar.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/reset-filter.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/resize.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/responsive-visibility.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/size.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/tab-focus.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/table-row.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/text-emphasis.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/text-overflow.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/vendor-prefixes.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/mixins/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/modals.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/navbar.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/navs.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/normalize.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/pager.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/pagination.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/panels.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/popovers.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/print.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/progress-bars.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/responsive-embed.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/responsive-utilities.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/scaffolding.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/tables.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/theme.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/thumbnails.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/tooltip.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/type.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/utilities.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/variables.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/wells.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/bootstrap/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/style.scss">
+      <publishTime>10/16/2017 21:13:40</publishTime>
+    </File>
+    <File Include="sass/_bootstrap-compass.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/_bootstrap-mincer.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/_bootstrap-sprockets.scss">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="sass/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:34:06</publishTime>
+    </File>
+    <File Include="Service References/WSAfip/FE.WSAfip.ArrayOfString.datasource">
+      <publishTime>05/11/2017 20:51:06</publishTime>
+    </File>
+    <File Include="Service References/WSAfip/FE.WSAfip.RecuperarDatosCUITResponse.datasource">
+      <publishTime>05/11/2017 20:51:06</publishTime>
+    </File>
+    <File Include="Service References/WSAfipLogin/FE.WSAfipLogin.loginCmsResponse.datasource">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSAfipPadron/FE.WSAfipPadron.dummyResponse.datasource">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSAfipPadron/FE.WSAfipPadron.dummyReturn.datasource">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSAfipPadron/FE.WSAfipPadron.getPersonaResponse.datasource">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSAfipPadron/FE.WSAfipPadron.personaReturn.datasource">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSConversorFecha/configuration.svcinfo">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSConversorFecha/configuration91.svcinfo">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSConversorFecha/FE.WSConversorFecha.ConvertirFechaResponse.datasource">
+      <publishTime>12/19/2017 02:01:29</publishTime>
+    </File>
+    <File Include="Service References/WSConversorFecha/Reference.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSConversorFecha/Reference.svcmap">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSConversorFecha/WSConversorFecha.disco">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSConversorFecha/WSConversorFecha.wsdl">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/WSGoogle/configuration.svcinfo">
+      <publishTime>05/11/2017 17:59:54</publishTime>
+    </File>
+    <File Include="Service References/WSGoogle/configuration91.svcinfo">
+      <publishTime>05/11/2017 17:59:54</publishTime>
+    </File>
+    <File Include="Service References/WSGoogle/FE.WSGoogle.TraducirTextoResponse.datasource">
+      <publishTime>12/19/2017 01:59:39</publishTime>
+    </File>
+    <File Include="Service References/WSGoogle/Reference.cs">
+      <publishTime>05/11/2017 17:59:54</publishTime>
+    </File>
+    <File Include="Service References/WSGoogle/Reference.svcmap">
+      <publishTime>05/11/2017 17:59:54</publishTime>
+    </File>
+    <File Include="Service References/WSGoogle/WSGoogle.disco">
+      <publishTime>05/11/2017 17:59:54</publishTime>
+    </File>
+    <File Include="Service References/WSGoogle/WSGoogle.wsdl">
+      <publishTime>05/11/2017 17:59:54</publishTime>
+    </File>
+    <File Include="Service References/WSMail/configuration.svcinfo">
+      <publishTime>10/12/2017 10:45:25</publishTime>
+    </File>
+    <File Include="Service References/WSMail/configuration91.svcinfo">
+      <publishTime>10/12/2017 10:45:25</publishTime>
+    </File>
+    <File Include="Service References/WSMail/FE.WSMail.EnvioMailResponse.datasource">
+      <publishTime>12/19/2017 01:58:52</publishTime>
+    </File>
+    <File Include="Service References/WSMail/Reference.cs">
+      <publishTime>10/12/2017 10:45:27</publishTime>
+    </File>
+    <File Include="Service References/WSMail/Reference.svcmap">
+      <publishTime>10/12/2017 10:45:25</publishTime>
+    </File>
+    <File Include="Service References/WSMail/WSMail.disco">
+      <publishTime>10/12/2017 10:45:25</publishTime>
+    </File>
+    <File Include="Service References/WSMail/WSMail.wsdl">
+      <publishTime>10/12/2017 10:45:25</publishTime>
+    </File>
+    <File Include="UCCalendar.ascx">
+      <publishTime>11/13/2017 12:59:38</publishTime>
+    </File>
+    <File Include="UCCalendar.ascx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="UCCalendar.ascx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="UCCantGrid.ascx">
+      <publishTime>11/12/2017 16:37:56</publishTime>
+    </File>
+    <File Include="UCCantGrid.ascx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="UCCantGrid.ascx.designer.cs">
+      <publishTime>12/11/2017 16:36:22</publishTime>
+    </File>
+    <File Include="UCCuit.ascx">
+      <publishTime>11/05/2017 22:17:40</publishTime>
+    </File>
+    <File Include="UCCuit.ascx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="UCCuit.ascx.designer.cs">
+      <publishTime>05/11/2017 16:19:32</publishTime>
+    </File>
+    <File Include="UCMail.ascx">
+      <publishTime>11/05/2017 14:18:48</publishTime>
+    </File>
+    <File Include="UCMail.ascx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="UCMail.ascx.designer.cs">
+      <publishTime>05/11/2017 14:13:26</publishTime>
+    </File>
+    <File Include="UCNumTextBox.ascx">
+      <publishTime>11/05/2017 13:54:10</publishTime>
+    </File>
+    <File Include="UCNumTextBox.ascx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="UCNumTextBox.ascx.designer.cs">
+      <publishTime>05/11/2017 13:14:44</publishTime>
+    </File>
+    <File Include="UCPrecioTextBox.ascx">
+      <publishTime>11/06/2017 10:43:12</publishTime>
+    </File>
+    <File Include="UCPrecioTextBox.ascx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="UCPrecioTextBox.ascx.designer.cs">
+      <publishTime>06/11/2017 10:43:12</publishTime>
+    </File>
+    <File Include="usuarios.aspx">
+      <publishTime>12/17/2017 13:55:05</publishTime>
+    </File>
+    <File Include="usuarios.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="usuarios.aspx.designer.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="validacion.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ventapuntos.aspx">
+      <publishTime>11/06/2017 23:03:12</publishTime>
+    </File>
+    <File Include="ventapuntos.aspx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ventapuntos.aspx.designer.cs">
+      <publishTime>06/11/2017 22:24:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/07/2018 15:37:48</publishTime>
+    </File>
+    <File Include="Web.Debug.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Web.Release.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._apple-touch-icon-precomposed.png">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._css">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._favicon.ico">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._fonts">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._images">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._index.html">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._README.txt">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/._robots.txt">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/css/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/css/._magnific-popup.css">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/css/._megafish.css">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/css/._owl.carousel.min.css">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/css/._superfish.css">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/css/._themify-icons.css">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/css/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/._bootstrap">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/bootstrap/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/bootstrap/._glyphicons-halflings-regular.eot">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/bootstrap/._glyphicons-halflings-regular.svg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/bootstrap/._glyphicons-halflings-regular.ttf">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/bootstrap/._glyphicons-halflings-regular.woff">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/bootstrap/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/themify/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/themify/._themify.eot">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/themify/._themify.svg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/themify/._themify.ttf">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/themify/._themify.woff">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/themify/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/fonts/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._.keep">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._hero.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._hero2.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._hero3.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._hero4.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._hero_bg.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._image_1.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._image_2.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._macbook_1.png">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_1.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_10.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_2.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_3.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_4.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_5.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_6.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_7.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_8.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_9.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_detail_1.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_detail_2.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/._project_detail_3.jpg">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/images/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._bootstrap.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._custom.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._easyResponsiveTabs.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._hoverIntent.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._jquery-1.10.2.min.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._jquery.magnific-popup.min.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._modernizr-2.6.2.min.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._owl.carousel.min.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._superfish.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/._supersubs.js">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/js/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/._bootstrap">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/._bootstrap.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/.__bootstrap-compass.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/.__bootstrap-mincer.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/.__bootstrap-sprockets.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._alerts.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._badges.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._breadcrumbs.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._button-groups.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._buttons.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._carousel.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._close.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._code.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._component-animations.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._dropdowns.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._forms.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._glyphicons.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._grid.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._input-groups.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._jumbotron.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._labels.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._list-group.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._media.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._mixins">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._mixins.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._modals.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._navbar.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._navs.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._normalize.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._pager.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._pagination.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._panels.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._popovers.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._print.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._progress-bars.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._responsive-embed.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._responsive-utilities.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._scaffolding.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._tables.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._theme.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._thumbnails.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._tooltip.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._type.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._utilities.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._variables.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/._wells.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._.DS_Store">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._alerts.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._background-variant.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._border-radius.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._buttons.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._center-block.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._clearfix.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._forms.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._gradients.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._grid-framework.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._grid.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._hide-text.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._image.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._labels.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._list-group.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._nav-divider.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._nav-vertical-align.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._opacity.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._pagination.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._panels.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._progress-bar.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._reset-filter.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._resize.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._responsive-visibility.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._size.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._tab-focus.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._table-row.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._text-emphasis.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._text-overflow.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/._vendor-prefixes.scss">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/mixins/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/bootstrap/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/sass/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+    <File Include="__MACOSX/display/_notes/dwsync.xml">
+      <publishTime>08/27/2017 17:33:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
