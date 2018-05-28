@@ -38,3 +38,20 @@ C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Relea
 C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Release\RdlCompile.compiled
 C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Release\FE.dll
 C:\Dani\Dani\Documentos\UAI\..-en curso-.. TFI\Adviters\Adviters\FEweb\obj\Release\FE.pdb
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\FE.dll.config
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\FE.dll
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\FE.pdb
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\BE.dll
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\BLL.dll
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\Seguridad.dll
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\DAL.dll
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\BE.pdb
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\BLL.pdb
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\Seguridad.pdb
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\DAL.pdb
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\bin\DAL.xml
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\obj\Release\FE.csprojResolveAssemblyReference.cache
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\obj\Release\RdlCompile.cache
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\obj\Release\RdlCompile.compiled
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\obj\Release\FE.dll
+C:\Dani\Dani\Repositorio\Adviters.com Sistema\Adviters\FEweb\obj\Release\FE.pdb
