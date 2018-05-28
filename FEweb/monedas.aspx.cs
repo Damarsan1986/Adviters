@@ -87,7 +87,7 @@ namespace FE
             
             BE.TipoCambio tCambio = new BE.TipoCambio();
            
-            //DMS -- recupero la cotizacion, tendria que recuperarlo como XML y parsearlo a la clase, insertar en la tabla 
+            //DMS -- recupero la cotizacion, tendria que recuperarlo como XML y parsearlo a la clase, insertar en la tabla - 
             Divisas.RecuperarCotizacion("USD");
 
             
